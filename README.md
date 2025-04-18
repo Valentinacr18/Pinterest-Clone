@@ -8,6 +8,7 @@ This is a clone of the Pinterest interface, built with Html and Css, with Masonr
 pinterest-clone/
 ├── index.html
 ├── style.css
+├── README.md      
 └── assets/
     └── images
 ```
